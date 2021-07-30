@@ -1,0 +1,14 @@
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+tmp
+public/*
+public/uploads/*
+resources/views/*
+
+!public/uploads
+!public/uploads/.gitkeep
+!resources/views/.gitkeep
